@@ -1,0 +1,9 @@
+sentence-transformers
+langchain_core
+python-dotenv
+langchain_community
+langserve
+bs4
+pypdf
+faiss-cpu
+transformers
