@@ -1,8 +1,6 @@
  📄 RAG-Powered PDF Chatbot with Streamlit
 
-A lightweight Retrieval-Augmented Generation (RAG) app built with **Streamlit** that lets users upload PDF documents, search and query over their content, and get smart answers powered by **Gemini Pro / Gemini Flash**.
-
----
+A lightweight Retrieval-Augmented Generation (RAG) app built with **Streamlit** that lets users upload PDF documents, search and query over their content, and get smart answers powered by **Gemini Flash**.
 
 ## 🚀 Features
 
@@ -12,7 +10,6 @@ A lightweight Retrieval-Augmented Generation (RAG) app built with **Streamlit** 
 - ✅ Ask questions and get AI-generated answers
 - ✅ Built with `LangChain`, `Google Generative AI`, and `Streamlit`
 
-- 
 ## 🧱 Tech Stack
 
 | Frontend   | Streamlit                     |
